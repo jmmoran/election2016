@@ -32,7 +32,7 @@ require(stringr)
   setwd("states")
   st.file.names <- dir()
   
-  # get the state abbreviations out of the filenames (inclludin DC with this approach)
+  # get the state abbreviations out of the filenames
   st.abbreviations <- unlist(map(st.file.names, str_extract, "^[a-z]+"))
   
   # load demographics data into memory,as a list.
