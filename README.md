@@ -7,6 +7,10 @@ Voting data for 2016 and 2012: "https://ballotpedia.org/Presidential_candidates,
 
 Demographics data by state: http://censtats.census.gov/usa/usa.shtml
 
+# Dependencies:
+tidyverse (ggplot2, dplyr, stringr)
+ggrepel: requires R >= 3.0.0, ggplot >= 2.0
+ 
 # Feature engineering wranglePres.R
 
 (1) Make sure voting columns are just numbers or candidates
