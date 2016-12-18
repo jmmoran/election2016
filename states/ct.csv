@@ -1,0 +1,119 @@
+USA Counties
+ 
+CONNECTICUT
+
+"Description","Data","Footnote","Unit"
+"Accommodation and Food Services: total (NAICS 72) - sales of establishments with payroll 2002",6681803,"   ","TH$"
+"Accommodation and Food Services: total (NAICS 72) - sales of establishments with payroll 2007",9138437,"   ","TH$"
+"Resident population 65 years and over, percent (July 1 - estimate) 2010",14.2,"   ","PCT"
+"New private housing units authorized by building permits - total 2009 (20,000-place universe)",3786,"   ","ABS"
+"New private housing units authorized by building permits - total 2010 (20,000-place universe)",3932,"   ","ABS"
+"Private nonfarm establishments 2000",92436,"1","ABS"
+"Private nonfarm establishments 2009",90048,"1","ABS"
+"Civilian labor force 2000",1736831,"   ","ABS"
+"Civilian labor force 2010",1897433,"   ","ABS"
+"Civilian labor force unemployment rate 2000 /3",2.3,"   ","RTE"
+"Civilian labor force unemployment rate 2010 /3",9.1,"   ","RTE"
+"School enrollment - persons 3 years and over, male, enrolled in college, undergraduate years: 2005-2009",91478,"   ","ABS"
+"School enrollment - persons 3 years and over, female, enrolled in college, undergraduate years: 2005-2009",113566,"   ","ABS"
+"Educational attainment - persons 25 years and over - percent bachelor's degree or higher 2005-2009",35.1,"   ","PCT"
+"Federal Government expenditure - total FY 2000",19526603,"1","TH$"
+"Federal Government expenditure - total FY 2010",55978316,"1","TH$"
+"Family households - married couple 2005-2009",676905,"   ","ABS"
+"Family households - female householder, no husband present 2005-2009",162397,"   ","ABS"
+"Nonfamily households - 1 person household 2005-2009",359349,"   ","ABS"
+"Total housing units 1990 (complete count)",1320850,"   ","ABS"
+"Total housing units 2000 (complete count)",1385975,"   ","ABS"
+"Total housing units 2010 (complete count)",1487891,"   ","ABS"
+"Owner-occupied housing units - percent of total occupied housing units 2000 (complete count)",66.8,"   ","PCT"
+"Owner-occupied housing units - percent of total occupied housing units 2010 (complete count)",67.5,"   ","PCT"
+"Median household income in the past 12 months (in 2009-infaltion-adjusted dollars) in 2005-2009",67721,"   ","DOL"
+"Median household income 2009 /2",66906,"   ","DOL"
+"People of all ages in poverty - number 2009 /2",318008,"   ","ABS"
+"Number of returns 2008",1493765,"   ","ABS"
+"Adjusted gross income 2008",118446509,"   ","TH$"
+"Wages and salaries income 2008",90386245,"   ","TH$"
+"Personal income 2000",141570257,"   ","TH$"
+"Per capita personal income 2000",41495,"   ","DOL"
+"Personal income 2007",191877,"   ","ML$"
+"Per capita personal income 2007",54981,"   ","DOL"
+"Resident population (April 1 - complete count) 2000",3405565,"   ","ABS"
+"Resident population (April 1 - complete count) 2010",3574097,"   ","ABS"
+"Population per square mile 2000",702.9,"   ","RTE"
+"Population per square mile 2010",738.1,"   ","RTE"
+"Place of birth, foreign-born, percent,  2005-2009",12.8,"   ","PCT"
+"Resident total population estimate (July 1) 2009",3518288,"   ","ABS"
+"Resident total population estimate - rank - (July 1) 2009","(X)","   ","RNK"
+"Resident total population estimate, net change - April 1, 2000 to July 1, 2009",112681,"   ","ABS"
+"Resident total population estimate, percent change - April 1, 2000 to July 1, 2009",3.3,"   ","PCT"
+"Population below poverty level 1999",259514,"   ","ABS"
+"Population below poverty level 2005-2009",295608,"   ","ABS"
+"Resident population: White alone, percent (April 1 - complete count) 2010",77.6,"   ","PCT"
+"Resident population: Black alone, percent (April 1 - complete count) 2010",10.1,"   ","PCT"
+"Resident population: American Indian and Alaska Native alone, percent (April 1 - complete count) 2010",0.3,"   ","PCT"
+"Resident population: Asian alone, percent (April 1 - complete count) 2010",3.8,"   ","PCT"
+"Resident population: Native Hawaiian and Other Pacific Islander alone, percent (April 1 - complete count) 2010",0,"   ","PCT"
+"Resident population: Hispanic or Latino Origin, percent (April 1 - complete count) 2010 /1",13.4,"   ","PCT"
+"Retail trade: total (NAICS 44-45) - sales of establishments with payroll 2002",41952682,"   ","TH$"
+"Retail trade: total (NAICS 44-45) - sales of establishments with payroll 2007",52165480,"   ","TH$"
+"Retail trade: total (NAICS 44-45) - sales of establishments with payroll per capita 2002",12129,"   ","DOL"
+"Retail trade: total (NAICS 44-45) - sales of establishments with payroll per capita 2007",14953,"   ","DOL"
+"Resident population: males per 100 females (July 1 - estimate) 2010",94.8,"   ","PCT"
+"Social security - benefit recipients (Dec.) 2000",577972,"2","ABS"
+"Social security - benefit recipients (Dec.) 2010",622167,"2","ABS"
+"Supplemental security income recipients (Dec.) 2000",48767,"2","ABS"
+"Supplemental security income recipients (Dec.) 2010",58257,"   ","ABS"
+"Veterans - total 2005-2009",244700,"   ","ABS"
+"Births per 1,000 population 2000",12.6,"   ","RTE"
+"Births per 1,000 population 2007",11.9,"   ","RTE"
+"Infant deaths per 1,000 live births 2000",6.6,"   ","RTE"
+"Infant deaths per 1,000 live births 2007",6.6,"   ","RTE"
+
+
+Data Flag Descriptions
+(FN)  Footnote for this item
+
+(NA)  Not available
+
+(D)  Figure withheld to avoid disclosure pertaining to a specific organization or individual
+
+(X)  Not applicable
+
+(S)  Data suppressed
+
+(Z)  Value would amount to less than half the unit of measurement shown
+
+(B)  Base figure too small to meet statistical standards for reliability of a derived figure.
+
+
+
+Footnote Descriptions
+1   Includes data not distributed by county.
+2   Includes data not distributed by county.  Counties do not add to the State total due to use of rounding procedure to avoid disclosure and or presence of unknowns.
+
+
+Item Footnote Descriptions
+\1 Persons of Hispanic or Latino origin may be of any race
+\2 Data from the Small Area Income and Poverty Estimates (SAIPE) and may not be entirely comparable with 1999 and 1989
+\3 Civilian unemployed as a percent of civillian labor force
+
+
+Unit Descriptions
+
+ACR Acres
+YRS Years
+ML$ Millions of Dollars
+RTE Rate
+TH$ Thousands of Dollars
+PCT Percent
+SYM Symbol
+AVG Average
+ABS Absolute Number
+MIN Minutes
+SQM Square Miles
+DOL Dollars
+THO Thousands
+MIL Millions
+RNK Rank
+MGD Millions of Gallons per Day
+GLD Gallons per Day
