@@ -12,9 +12,9 @@ tidyverse (ggplot2, dplyr, stringr)
 
 ggrepel: requires R >= 3.0.0, ggplot >= 2.0
  
-# Feature engineering wranglePres.R
+# Feature engineering: wranglePres.R
 
-(1) Make sure voting columns are just numbers or candidates
+(1) Ensure columns in voting table are either numeric or candidates (not both).
 
 (2) Reduce number of demographics columns. Many columns are same data from different years. 
 
@@ -24,7 +24,7 @@ ggrepel: requires R >= 3.0.0, ggplot >= 2.0
 
 (5) Merge the voting and demographics data frames for analysis 
 
-# Graphical analysis analyzePres.R
+# Graphical analysis: analyzePres.R
 
 (1) Load merged data frame back in to memory
 
