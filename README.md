@@ -9,6 +9,7 @@ Demographics data by state: http://censtats.census.gov/usa/usa.shtml
 
 # Dependencies:
 tidyverse (ggplot2, dplyr, stringr)
+
 ggrepel: requires R >= 3.0.0, ggplot >= 2.0
  
 # Feature engineering wranglePres.R
